@@ -8,7 +8,9 @@ You don't need to finish a game to find the Skip Button.
 
 You don't need to come on the game again when you have a reward.
  
+ ・Requirements
+'''pip install pyautogui'''
 
-・Thanks CipherKill (https://github.com/CipherKill)
+・Thanks to CipherKill for making this amazing script lol (https://github.com/CipherKill)
 
 
