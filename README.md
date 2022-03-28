@@ -11,8 +11,6 @@ You don't need to come on the game again when you have a reward.
  ・Requirements
  
 pip install pyautogui
-
- ・Credits
  
  
 ・Thanks to CipherKill for making this script lol (https://github.com/CipherKill)
