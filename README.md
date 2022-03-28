@@ -1,5 +1,5 @@
 ### ValorantFarmer👻
-・This is a Valorant XP farmer made by CipherKill but i changed it a little bit.
+・This is a Valorant XP farmer made by CipherKill but i changed it a little bit (i'm bad at python lol).
 
 ・What is changing from CipherKill version?
 
