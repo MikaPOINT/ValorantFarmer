@@ -25,6 +25,7 @@ print("[!] Click on the top Play Button and go back")
 print("[!] Click on the Deathmatch buttonand go back")
 print("[!] Click on the start button and stop matchmaking instantly")
 print("[!] Click on the Invite Friends button and go back")
+print("[!] If it's not working restart your games")
 
 print("\n\n[!] Make sure you are in FullScreen-Windowed")
 print("-"*20)
