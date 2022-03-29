@@ -23,5 +23,6 @@ pip install pyautogui / in the Windows Console
  
  
 ・Thanks to CipherKill, I inspired my script from (https://github.com/CipherKill/ValorantFarmer)
+・https://discord.gg/qPnvuybFVk
 
 
