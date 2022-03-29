@@ -3,19 +3,19 @@
 
 ・What is changing from CipherKill version?
 
-It fix the problem like not clicking
+ + It fix the problem like not clicking
 
+ + You don't need to finish a game to find the Skip Button.
 
-
-You don't need to finish a game to find the Skip Button.
-
-You don't need to come on the game again when you have a reward.
+ + You don't need to come on the game again when you have a reward.
  
  ・Requirements
 ```python3
 pip install pyautogui
 ``` 
 
+ ### <p align="center"Disclaimer</p>
+ * I'm not responsable if you get banned from Reports for being AFK
  
  
 ・Thanks to CipherKill for making this script lol (https://github.com/CipherKill)
