@@ -11,7 +11,7 @@
  
 ### How to install?
 ```python3
-pip install pyautogui
+pip install pyautogui / in the Windows Console
 ``` 
 
  ### <p align="center">Disclaimer</p>
