@@ -9,7 +9,7 @@
 
  + You don't need to come on the game again when you have a reward.
  
- ・Requirements
+### How to install? Requirements
 ```python3
 pip install pyautogui
 ``` 
