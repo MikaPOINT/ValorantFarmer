@@ -14,7 +14,7 @@
 pip install pyautogui
 ``` 
 
- ### <p align="center"Disclaimer</p>
+ ### <p align="center">Disclaimer</p>
  * I'm not responsable if you get banned from Reports for being AFK
  
  
