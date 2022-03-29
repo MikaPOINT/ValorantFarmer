@@ -1,7 +1,5 @@
 ### ValorantFarmer👻
-<p align="center">
-<img src="https://repository-images.githubusercontent.com/416417012/341bc39d-cabd-4bff-8702-d84b1b8cbe0e", width="500", height="500">
-</p>
+
 ・This is a Valorant XP farmer made by CipherKill but i changed it. (i'm bad at python lol).
 
   ・What is changing from CipherKill version?
