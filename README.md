@@ -15,9 +15,9 @@ pip install pyautogui
 ``` 
 
  ### <p align="center">Disclaimer</p>
- * I'm not responsable if you get banned from Reports for being AFK
+ * I'm not responsable if you get banned from Reports for being AFK.
  
  
-・Thanks to CipherKill for making this script lol (https://github.com/CipherKill)
+・Thanks to CipherKill, I inspired my script from (https://github.com/CipherKill/ValorantFarmer)
 
 
