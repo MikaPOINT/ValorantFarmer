@@ -3,7 +3,7 @@
 
   ・What is changing from CipherKill version?
 
-    + It fix the problem like not clicking
+    + It fix problems like not clicking
 
     + You don't need to finish a game to find the Skip Button.
 
