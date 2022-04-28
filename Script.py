@@ -19,8 +19,10 @@ def press(key):
 
 
 print("Valorant Farmer by CipherKill but remade by Martisic.\n")
-print("[!] Make sure you are in Fullscreen-Windowed in 1920x1080.")
-print("[!] Assurez vous d'être en Plein écran fenêtre et en 1920x1080.")
+print("[!] Make sure you are in Fullscreen-Windowed in 1920x1080 and in the menu.")
+print("[+] It's recommended to put the max fps of the game at 15FPS")
+print("[!] Assurez vous d'être en Plein écran fenêtre et en 1920x1080 et dans le menu.")
+print("[+] Il est recommendé de limiter les IPS/FPS du jeu à 15IPS/FPS.")
 print("-"*20)
 input("\nPress Enter to start program... - Appuyer sur Entrer pour commencer..\n")
 print("After 5 seconds the script will start GO IN VALORANT!")
