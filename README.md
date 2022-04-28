@@ -1,6 +1,6 @@
 ### ValorantFarmer👻
 
-・This is a Valorant XP farmer made by CipherKill but i changed it. (i'm bad at python lol).
+・This is a Valorant XP farmer made by CipherKill but i changed it.
 
   ・What is changing from CipherKill version?
 
@@ -13,17 +13,21 @@
     + English and French 
  
 
-### How to install?
+### <p align="center">How to install 🤔</p>
 ```python3
 pip install pyautogui / in the Windows Console
 ``` 
 
- ### <p align="center">Disclaimer</p>
+ ・ <a href="https://github.com/MikaPOINT/ValorantFarmer/releases/download/Valorant/ValorantFarmer-v1.0.0.py">.py</a> script
+
+ ・ or the <a href="https://github.com/MikaPOINT/ValorantFarmer/releases/download/Valorant/ValorantFarmer-v1.0.0.exe">.exe</a> version working too.
+
+ ### <p align="center">Disclaimer ⚠️</p>
  * I'm not responsable if you get banned from Reports for being AFK.
  
  
 ・Thanks to CipherKill, I inspired my script from (https://github.com/CipherKill/ValorantFarmer)
 
-・My discord if you need help https://discord.gg/qPnvuybFVk
+・My discord https://discord.gg/qPnvuybFVk
 
 
